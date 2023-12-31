@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  title: "Music"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/
+      - icon: twitter
+        href: https://twitter.com
+      - icon: mastodon
+        href: https://fosstodon.org/@sarahaenzi
+      - text: Main Website
+        href: https://www.sarahaenzi.com/
+format:
+  html:
+    theme: solar
+    css: styles.css
+
+
+
