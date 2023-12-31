@@ -13,4 +13,4 @@ title-block-banner: true
 ---
 
 
-Posts about music that I listen to, musicians taht insprie me, and maybe one day even music that I make. Plus geeky adventures into looping.
+Posts about music that I listen to, musicians that insprie me, and maybe one day music that I make. Plus geeky adventures into looping.
