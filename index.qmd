@@ -1,5 +1,6 @@
 ---
 title: "Music that makes my life better - maybe yours too?"
+subtitle: "Adventures in music and looping"
 listing:
   contents: posts
   sort: "date desc"
@@ -12,3 +13,4 @@ title-block-banner: true
 ---
 
 
+Posts about music that I listen to, musicians taht insprie me, and maybe one day even music that I make. Plus geeky adventures into looping.
