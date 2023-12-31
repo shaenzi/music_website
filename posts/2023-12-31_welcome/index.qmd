@@ -1,11 +1,9 @@
 ---
 title: "Welcome to my music blog"
 author: "Sara Hänzi"
-date: today
+date: "2023-12-30"
 ---
 
-After my motivation to post over at my [regular blog](https://sarahaenzi.com/) hasn't been great recently, I thought I could start a blog on something that occupies more of my time now: music. I won't forget coding and all that, not least because this blog is written in quarto, and rendereand published using GitHub actions (if you don't know what those are, never mind. If you do, you might be interested in my original blog too).
+After my motivation to post over at my [regular blog](https://sarahaenzi.com/) hasn't been great recently, I thought I could start a blog on something that occupies more of my time now: music. I won't forget coding and all that, not least because this blog is written in quarto, and rendered and published using GitHub actions (if you don't know what those are, never mind. If you do, you might be interested in my original blog too).
 
 I will tell you here about music I listen to, music and musicians that inspire me, and maybe one day also music that I make. I might also geek out on music hardware, especially about looping. Are you ready?
-
-![](thumbnail.jpg)
