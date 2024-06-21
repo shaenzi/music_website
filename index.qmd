@@ -9,8 +9,16 @@ listing:
   sort-ui: false
   filter-ui: false
 page-layout: full
-title-block-banner: true
+title-block-banner: banner-viola.jpg
+include-in-header:
+  - text: |
+      <style>
+      .quarto-title-block .quarto-title-banner {
+        background-position-y: center;
+        height: 200px;
+      }
+
+      </style>
 ---
 
-
-Posts about music that I listen to, musicians that insprie me, and maybe one day music that I make. Plus geeky adventures into looping.
+Posts about music that I listen to, musicians that inspire me, and maybe one day music that I make. Plus geeky adventures into looping.

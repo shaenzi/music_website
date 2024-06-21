@@ -1,31 +1,10 @@
 [
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome to my music blog",
-    "section": "",
-    "text": "After my motivation to post over at my regular blog hasn’t been great recently, I thought I could start a blog on something that occupies more of my time now: music. I won’t forget coding and all that, not least because this blog is written in quarto, and rendereand published using GitHub actions (if you don’t know what those are, never mind. If you do, you might be interested in my original blog too).\nI will tell you here about music I listen to, music and musicians that inspire me, and maybe one day also music that I make. I might also geek out on music hardware, especially about looping. Are you ready?"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Music that makes my life better - maybe yours too?",
     "section": "",
-    "text": "Posts about music that I listen to, musicians taht insprie me, and maybe one day even music that I make. Plus geeky adventures into looping.\n\n\n\n\n\n\n\n\n  \n\n\n\n\nGetting into looping - Zoë Keating\n\n\n\n\n\n\n\nlistening\n\n\ninspiration\n\n\n\n\n\n\n\n\n\n\n\nDec 31, 2023\n\n\nSara Hänzi\n\n\n\n\n\n\n  \n\n\n\n\nWelcome to my music blog\n\n\n\n\n\n\n\n\n\n\n\n\nDec 30, 2023\n\n\nSara Hänzi\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this blog\nTest test test"
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code."
+    "text": "Posts about music that I listen to, musicians that inspire me, and maybe one day music that I make. Plus geeky adventures into looping.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTiny desk concerts\n\n\n\n\n\n\nlistening\n\n\ninspiration\n\n\n\n\n\n\n\n\n\nJan 17, 2024\n\n\nSara Hänzi\n\n\n\n\n\n\n\n\n\n\n\n\nGetting into looping - Zoë Keating\n\n\n\n\n\n\nlistening\n\n\ninspiration\n\n\n\n\n\n\n\n\n\nDec 31, 2023\n\n\nSara Hänzi\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome to my music blog\n\n\n\n\n\n\n\n\n\n\n\nDec 30, 2023\n\n\nSara Hänzi\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/2023-12-31_welcome/index.html",
@@ -33,6 +12,34 @@
     "title": "Welcome to my music blog",
     "section": "",
     "text": "After my motivation to post over at my regular blog hasn’t been great recently, I thought I could start a blog on something that occupies more of my time now: music. I won’t forget coding and all that, not least because this blog is written in quarto, and rendered and published using GitHub actions (if you don’t know what those are, never mind. If you do, you might be interested in my original blog too).\nI will tell you here about music I listen to, music and musicians that inspire me, and maybe one day also music that I make. I might also geek out on music hardware, especially about looping. Are you ready?"
+  },
+  {
+    "objectID": "posts/2024-01-17_tiny_desk/index.html",
+    "href": "posts/2024-01-17_tiny_desk/index.html",
+    "title": "Tiny desk concerts",
+    "section": "",
+    "text": "Not much is needed for an exceptional musical experience - a tiny desk behind which musicians can play and an audience is all that is required with NPR’s Tiny Desk concert series. Luckily for us, we can watch online even if we do not make it to the studio. While I haven’t listened to nearly enough of them, I already have quite a few favouriters, which I’d like to share with you:"
+  },
+  {
+    "objectID": "posts/2024-01-17_tiny_desk/index.html#goat-rodeo",
+    "href": "posts/2024-01-17_tiny_desk/index.html#goat-rodeo",
+    "title": "Tiny desk concerts",
+    "section": "Goat Rodeo",
+    "text": "Goat Rodeo\nThe Goat Rodeo Sessions is an album by/with Edgar Meyer, Chris Thile, Stuart Duncan, and Yo-Yo Ma. Classically inclined people will recognise at least Ma’s name, and yes, some classically-trained virtuosity is an aspect that can be heard, but there is so much more:"
+  },
+  {
+    "objectID": "posts/2024-01-17_tiny_desk/index.html#gaelynn-lea",
+    "href": "posts/2024-01-17_tiny_desk/index.html#gaelynn-lea",
+    "title": "Tiny desk concerts",
+    "section": "Gaelynn Lea",
+    "text": "Gaelynn Lea\nAs a violin player myself, I know many of the sounds that a violin can create. I learnt a whole lot of new ones with this video, though. Gaelynn Lea’s playing won the Tiny Desk contest of that year, and it really is something special:"
+  },
+  {
+    "objectID": "posts/2024-01-17_tiny_desk/index.html#imogen-heap-and-fancy-technology",
+    "href": "posts/2024-01-17_tiny_desk/index.html#imogen-heap-and-fancy-technology",
+    "title": "Tiny desk concerts",
+    "section": "Imogen Heap and fancy technology",
+    "text": "Imogen Heap and fancy technology\nI’m starting to learn about all the fun stuff you can do with music when it is digital. Nevertheless, having something physical in your hands still has an appeasl - Imogen Heap combines both with super-fancy gloves, which allow her to control digital effects with gestures:\n\n\nIs that enough inspiration for today?\n\nArtists mentioned\n\nEdgar Meyer\nChris Thile\nStuart Duncan\nYo-Yo Ma\nGaelynn Lea\nImogen Heap"
   },
   {
     "objectID": "posts/2023-12-31_zoe_keating/index.html",
