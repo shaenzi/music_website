@@ -2,6 +2,7 @@
 title: "Welcome to my music blog"
 author: "Sara Hänzi"
 date: "2023-12-30"
+image: schnecke.jpg
 ---
 
 After my motivation to post over at my [regular blog](https://sarahaenzi.com/) hasn't been great recently, I thought I could start a blog on something that occupies more of my time now: music. I won't forget coding and all that, not least because this blog is written in quarto, and rendered and published using GitHub actions (if you don't know what those are, never mind. If you do, you might be interested in my original blog too).
