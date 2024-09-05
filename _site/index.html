@@ -78,9 +78,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -206,7 +206,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(4)</span></div><div class="category" data-category="inspiration">inspiration <span class="quarto-category-count">(3)</span></div><div class="category" data-category="listening">listening <span class="quarto-category-count">(3)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(4)</span></div><div class="category" data-category="inspiration">inspiration <span class="quarto-category-count">(3)</span></div><div class="category" data-category="listening">listening <span class="quarto-category-count">(3)</span></div><div class="category" data-category="looping">looping <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
@@ -219,21 +219,16 @@ window.Quarto = {
 
 
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="listening,inspiration" data-listing-date-sort="1725487200000" data-listing-file-modified-sort="1725563544103" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="233">
-<div class="thumbnail">
-<p><a href="./posts/2024-09-05_theremin/index.html" class="no-external"></a></p><a href="./posts/2024-09-05_theremin/index.html" class="no-external">
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="./posts/2024-09-05_theremin/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/2024-09-05_theremin/index.html" class="no-external">Waving your hands to create music - say hello to the theremin</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/2024-09-05_theremin/index.html" class="no-external"></a>
-</div>
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="listening,inspiration" data-listing-date-sort="1725487200000" data-listing-file-modified-sort="1725563742018" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="233">
+<a href="./posts/2024-09-05_theremin/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Waving your hands to create music - say hello to the theremin
+</h5>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('listening'); return false;">
 listening
@@ -242,34 +237,29 @@ listening
 inspiration
 </div>
 </div>
-<div class="listing-description">
-<a href="./posts/2024-09-05_theremin/index.html" class="no-external">I have become a regular listener of the BBC’s Add to playlist podcast (which definitely deserves its own blog post, but that’s something for another day). It’s a programme…</a>
+<div class="card-text listing-description">
+I have become a regular listener of the BBC’s Add to playlist podcast (which definitely deserves its own blog post, but that’s something for another day). It’s a programme…
 </div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Sara Hänzi
 </div>
-<div class="metadata">
-<a href="./posts/2024-09-05_theremin/index.html" class="no-external">
 <div class="listing-date">
 Sep 5, 2024
 </div>
-<div class="listing-author">
-Sara Hänzi
+</div>
+</div>
 </div>
 </a>
 </div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="listening,inspiration" data-listing-date-sort="1705446000000" data-listing-file-modified-sort="1705528647482" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="275">
-<div class="thumbnail">
-<p><a href="./posts/2024-01-17_tiny_desk/index.html" class="no-external"></a></p><a href="./posts/2024-01-17_tiny_desk/index.html" class="no-external">
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="./posts/2024-01-17_tiny_desk/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/2024-01-17_tiny_desk/index.html" class="no-external">Tiny desk concerts</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/2024-01-17_tiny_desk/index.html" class="no-external"></a>
-</div>
+<div class="g-col-1" data-index="1" data-categories="listening,inspiration" data-listing-date-sort="1705446000000" data-listing-file-modified-sort="1705528647482" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="275">
+<a href="./posts/2024-01-17_tiny_desk/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Tiny desk concerts
+</h5>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('listening'); return false;">
 listening
@@ -278,34 +268,29 @@ listening
 inspiration
 </div>
 </div>
-<div class="listing-description">
-<a href="./posts/2024-01-17_tiny_desk/index.html" class="no-external">Not much is needed for an exceptional musical experience - a tiny desk behind which musicians can play and an audience is all that is required with NPR’s Tiny Desk concert…</a>
+<div class="card-text listing-description">
+Not much is needed for an exceptional musical experience - a tiny desk behind which musicians can play and an audience is all that is required with NPR’s Tiny Desk concert…
 </div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Sara Hänzi
 </div>
-<div class="metadata">
-<a href="./posts/2024-01-17_tiny_desk/index.html" class="no-external">
 <div class="listing-date">
 Jan 17, 2024
 </div>
-<div class="listing-author">
-Sara Hänzi
+</div>
+</div>
 </div>
 </a>
 </div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="listening,inspiration" data-listing-date-sort="1703977200000" data-listing-file-modified-sort="1705526821446" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="205">
-<div class="thumbnail">
-<p><a href="./posts/2023-12-31_zoe_keating/index.html" class="no-external"></a></p><a href="./posts/2023-12-31_zoe_keating/index.html" class="no-external">
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="./posts/2023-12-31_zoe_keating/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/2023-12-31_zoe_keating/index.html" class="no-external">Getting into looping - Zoë Keating</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/2023-12-31_zoe_keating/index.html" class="no-external"></a>
-</div>
+<div class="g-col-1" data-index="2" data-categories="listening,inspiration,looping" data-listing-date-sort="1703977200000" data-listing-file-modified-sort="1725564906862" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="205">
+<a href="./posts/2023-12-31_zoe_keating/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Getting into looping - Zoë Keating
+</h5>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('listening'); return false;">
 listening
@@ -313,49 +298,49 @@ listening
 <div class="listing-category" onclick="window.quartoListingCategory('inspiration'); return false;">
 inspiration
 </div>
+<div class="listing-category" onclick="window.quartoListingCategory('looping'); return false;">
+looping
 </div>
-<div class="listing-description">
-<a href="./posts/2023-12-31_zoe_keating/index.html" class="no-external">Playing in orchestras and ensembles has always been fun - but coming back to music a bit more after a more sporty phase, I wasn’t quite attracted by classical ensembles.…</a>
 </div>
+<div class="card-text listing-description">
+Playing in orchestras and ensembles has always been fun - but coming back to music a bit more after a more sporty phase, I wasn’t quite attracted by classical ensembles.…
 </div>
-<div class="metadata">
-<a href="./posts/2023-12-31_zoe_keating/index.html" class="no-external">
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Sara Hänzi
+</div>
 <div class="listing-date">
 Dec 31, 2023
 </div>
-<div class="listing-author">
-Sara Hänzi
+</div>
+</div>
 </div>
 </a>
 </div>
+<div class="g-col-1" data-index="3" data-listing-date-sort="1703890800000" data-listing-file-modified-sort="1719055106264" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="113">
+<a href="./posts/2023-12-31_welcome/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./posts/2023-12-31_welcome/schnecke.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Welcome to my music blog
+</h5>
+<div class="card-text listing-description">
+After my motivation to post over at my regular blog hasn’t been great recently, I thought I could start a blog on something that occupies more of my time now: music. I won’t…
 </div>
-<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1703890800000" data-listing-file-modified-sort="1719055106264" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="113">
-<div class="thumbnail">
-<p><a href="./posts/2023-12-31_welcome/index.html" class="no-external"></a></p><a href="./posts/2023-12-31_welcome/index.html" class="no-external">
-<p><img src="./posts/2023-12-31_welcome/schnecke.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/2023-12-31_welcome/index.html" class="no-external"></a></p>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Sara Hänzi
 </div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/2023-12-31_welcome/index.html" class="no-external">Welcome to my music blog</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/2023-12-31_welcome/index.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./posts/2023-12-31_welcome/index.html" class="no-external">After my motivation to post over at my regular blog hasn’t been great recently, I thought I could start a blog on something that occupies more of my time now: music. I won’t…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/2023-12-31_welcome/index.html" class="no-external">
 <div class="listing-date">
 Dec 30, 2023
 </div>
-<div class="listing-author">
-Sara Hänzi
+</div>
+</div>
 </div>
 </a>
-</div>
 </div>
 </div>
 <div class="listing-no-matching d-none">
