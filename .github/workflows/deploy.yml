@@ -13,6 +13,8 @@ jobs:
       uses: quarto-dev/quarto-actions/setup@v2
     - name: Render Quarto Project
       uses: quarto-dev/quarto-actions/render@v2
+    - name: versionise css to prevent cross-caching of css between subdomains
+      run: sed -i 's/bootstrap.min.css/bootstrap.min.css?version=m/g' ./_site/index.html
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@v4.3.4
       with:
