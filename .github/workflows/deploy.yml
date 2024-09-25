@@ -9,10 +9,6 @@ jobs:
     steps:
     - name: 🚚 Get latest code
       uses: actions/checkout@v3
-    - name: set up quarto
-      uses: quarto-dev/quarto-actions/setup@v2
-    - name: Render Quarto Project
-      uses: quarto-dev/quarto-actions/render@v2
     - name: versionise css to prevent cross-caching of css between subdomains
       run: find . -type f -name "index.html" -exec sed -i 's/bootstrap.min.css/bootstrap.min.css?version=m/g' {} +
     - name: 📂 Sync files
