@@ -2,6 +2,7 @@
 title: "Tiny desk concerts"
 author: "Sara Hänzi"
 date: "2024-01-17"
+image: npr_td.png
 categories: [listening, inspiration]
 ---
 

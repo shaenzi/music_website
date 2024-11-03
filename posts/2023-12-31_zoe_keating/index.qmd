@@ -2,6 +2,7 @@
 title: "Getting into looping - Zoë Keating"
 author: "Sara Hänzi"
 date: "2023-12-31"
+image: zk_bandcamp.jpg
 categories: [listening, inspiration, looping]
 ---
 
@@ -17,4 +18,4 @@ While Zoë uses a laptop and a midi controller, and programs her sequences hers
 
 ### Artists mentioned
 
-Zoë Keating: [website](https://www.zoekeating.com/), her [albums on bandcamp](https://zoekeating.bandcamp.com/)
+Zoë Keating: [website](https://www.zoekeating.com/), her [albums on bandcamp](https://zoekeating.bandcamp.com/) (the image for this post is her bandcamp profile picture)

@@ -2,6 +2,7 @@
 title: "Waving your hands to create music - say hello to the theremin"
 author: "Sara Hänzi"
 date: "2024-09-05"
+image: Etherwave_Theremin_Kit.jpg
 categories: [listening, inspiration]
 ---
 
@@ -18,3 +19,5 @@ Anyway, the song I heard in the original podcast was an arrangement of Claire de
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2823618276/size=small/bgcol=ffffff/linkcol=0687f5/track=3755930335/transparent=true/" seamless><a href="https://carolinaeyck.bandcamp.com/album/thetis-2086">Thetis 2086 by Carolina Eyck</a></iframe>
 
 If you got hooked, [here](https://carolinaeyck.bandcamp.com/album/thetis-2086)'s the whole album and [here](https://www.carolinaeyck.com/) is her website.
+
+*The image for this post comes [from Wikipedia](https://commons.wikimedia.org/wiki/File:Etherwave_Theremin_Kit.jpg) and can be re-used with a CC BY-SA 3.0 license.*
