@@ -7,9 +7,9 @@ website:
     right:
       #- about.qmd
       - icon: github
-        href: https://github.com/
+        href: https://github.com/shaenzi
       - icon: mastodon
-        href: https://fosstodon.org/@sarahaenzi
+        href: https://mas.to/@sarahaenzi
       - text: Main Website
         href: https://www.sarahaenzi.com/
 format:
