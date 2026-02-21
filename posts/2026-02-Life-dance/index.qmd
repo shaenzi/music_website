@@ -1,0 +1,15 @@
+---
+title: "Life dance"
+author: "Sara Hänzi"
+date: "2026-02-21"
+image: Image.png
+categories: [looping]
+---
+
+I have started created videos with my looper at the start of the first lockdown in 2022, as a means to connect with family and friends. At the time I was quite prolific, cranking out a video a week. Since then, my looping skills but also my aspirations in the technical domain have risen, so these days I am not happy anymore with the sound of my smartphone's microphone. Nevertheless, if I let perfectionism take over, I'll never finish another music video, which is not the point either. So I finally got round to finishing a video of a piece I have called "Life dance". The looping is kind of neat, I promise that everything you heard is played live!
+
+With many thanks to [Coen](https://www.coenstrouken.com/) for feedback and help on everything from viola technique to arrangement and sound engineering.
+
+Happy listening!
+
+{{< video 2025-11-09-life-dance.mp4 height=800 >}}

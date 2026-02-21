@@ -21,4 +21,4 @@ include-in-header:
       </style>
 ---
 
-Posts about music that I listen to, musicians that inspire me, and maybe one day music that I make. Plus geeky adventures into looping.
+Posts about music that I listen to, musicians that inspire me, and music that I make. Plus geeky adventures into looping.
