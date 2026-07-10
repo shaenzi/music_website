@@ -1,0 +1,13 @@
+---
+title: "Life dance"
+author: "Sara Hänzi"
+date: "2026-07-10"
+image: image-happy-together.png
+categories: [looping]
+---
+
+Finally, I got round to editing this video, after I've played this song at a local open mic.
+
+Again, with many thanks to [Coen](https://www.coenstrouken.com/) and this time also to [Hannah](https://www.hannahadriana.com/).
+
+{{< video Happy-together-v2-less-reverb-trimmed.mp4 height=800 >}}
