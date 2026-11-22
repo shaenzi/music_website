@@ -1,5 +1,5 @@
 ---
-title: "Life dance"
+title: "Happy together"
 author: "Sara Hänzi"
 date: "2026-07-10"
 image: image-happy-together.png
